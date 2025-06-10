@@ -1,8 +1,10 @@
 import { loadComponents } from './componentLoader.js';
+import { initializeNavigation } from './navigation.js';
 
 document.addEventListener('DOMContentLoaded', async () => {
     // Load all components
     await loadComponents();
+    initializeNavigation();
 
     // Initialize scroll animations
     const observer = new IntersectionObserver((entries) => {
