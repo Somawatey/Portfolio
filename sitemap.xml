@@ -3,7 +3,31 @@
     <url>
         <loc>https://khovsomawateyportfolio.netlify.app/</loc>
         <lastmod>2025-06-10</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://khovsomawateyportfolio.netlify.app/#about</loc>
+        <lastmod>2025-06-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://khovsomawateyportfolio.netlify.app/#experience</loc>
+        <lastmod>2025-06-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://khovsomawateyportfolio.netlify.app/#projects</loc>
+        <lastmod>2025-06-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://khovsomawateyportfolio.netlify.app/#contact</loc>
+        <lastmod>2025-06-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
 </urlset>
