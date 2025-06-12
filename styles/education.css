@@ -1,0 +1,36 @@
+/* Education Section */
+.education {
+    padding: 80px 0;
+    background: #1a0f2e;
+    text-align: center;
+}
+
+.education h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.education-card {
+    background: linear-gradient(135deg, rgba(105, 59, 147, 0.1), rgba(79, 34, 141, 0.1));
+    border: 1px solid rgba(105, 59, 147, 0.3);
+    border-radius: 20px;
+    padding: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.education-card h3 {
+    color: #693B93;
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}
+
+.education-card .degree {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+.education-card .period {
+    color: #CCD6F6;
+    font-size: 0.9rem;
+}
