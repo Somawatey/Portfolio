@@ -740,7 +740,7 @@ body {
         @keyframes fadeInUp {
             from {
                 opacity: 0;
-                transform: translateY(30px);
+                transform: translateY(20px);
             }
             to {
                 opacity: 1;
@@ -898,8 +898,8 @@ body {
     overflow: hidden;
     background: #1a0f2e;
     padding: 100px 0;
-    will-change: contents;
     content-visibility: auto;
+    contain: layout paint;
 }
 
 
@@ -940,6 +940,8 @@ body {
     z-index: 2;
     max-width: 1200px;
     padding: 0 50px;
+    transform: translateZ(0);
+    will-change: transform;
 }
 
 .hero-left {
