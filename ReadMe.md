@@ -79,4 +79,8 @@ The website is deployed on Netlify with automatic builds from the main branch.
 
 
 ## to start the project
-click on the index.html then click on live server
+
+- Right-click on `index.html` in the VS Code explorer
+- Select "Open with Live Server"
+- Or click the "Go Live" button in the bottom status bar
+- The site will open at `http://127.0.0.1:5500/index.html`
